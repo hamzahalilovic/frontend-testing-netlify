@@ -1,2 +1,0 @@
-(this["webpackJsonpapp-desktop"]=this["webpackJsonpapp-desktop"]||[]).push([[9],{441:function(e,t,i){"use strict";i.r(t);i(0);var n=i(3),s=i(1),c=function(e){return console.log("PROFILE CARDS PROPS ",e),Object(s.jsx)(n.Box,{width:"100vw",height:"100vh",children:Object(s.jsx)(n.Flex,{justifyContent:"center",alignItems:"center",width:"100%",height:"100%",children:Object(s.jsx)(n.Text,{textAlign:"center",textStyle:"h3",children:"ProfileCards"})})})};c.displayName="ProfileCards",t.default=c}}]);
-//# sourceMappingURL=9.288cb669.chunk.js.map

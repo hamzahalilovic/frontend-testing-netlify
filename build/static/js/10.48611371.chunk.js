@@ -1,2 +1,0 @@
-(this["webpackJsonpapp-desktop"]=this["webpackJsonpapp-desktop"]||[]).push([[10],{443:function(e,t,n){"use strict";n.r(t);n(0);var c=n(3),h=n(1),i=function(e){return console.log("SMART SEARCH PROPS ",e),Object(h.jsx)(c.Box,{width:"100vw",height:"100vh",children:Object(h.jsx)(c.Flex,{justifyContent:"center",alignItems:"center",width:"100%",height:"100%",children:Object(h.jsx)(c.Text,{textAlign:"center",textStyle:"h3",children:"SmartSearch"})})})};i.displayName="SmartSearch",t.default=i}}]);
-//# sourceMappingURL=10.48611371.chunk.js.map
