@@ -1,27 +1,27 @@
 {
   "files": {
-    "0.ff018692.iframe.bundle.js": "./0.ff018692.iframe.bundle.js",
-    "main.js": "./main.6d20b816.iframe.bundle.js",
-    "runtime~main.js": "./runtime~main.8694c018.iframe.bundle.js",
-    "vendors~main.js": "./vendors~main.c0f75c00.iframe.bundle.js",
-    "vendors~main.js.map": "./vendors~main.c0f75c00.iframe.bundle.js.map",
-    "4.4a6b540f.iframe.bundle.js": "./4.4a6b540f.iframe.bundle.js",
-    "4.4a6b540f.iframe.bundle.js.map": "./4.4a6b540f.iframe.bundle.js.map",
-    "5.cc92aefc.iframe.bundle.js": "./5.cc92aefc.iframe.bundle.js",
-    "6.fc672420.iframe.bundle.js": "./6.fc672420.iframe.bundle.js",
-    "6.fc672420.iframe.bundle.js.map": "./6.fc672420.iframe.bundle.js.map",
+    "0.16d7170b.iframe.bundle.js": "./0.16d7170b.iframe.bundle.js",
+    "main.js": "./main.e8d9a964.iframe.bundle.js",
+    "runtime~main.js": "./runtime~main.c5e96aae.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.843b7179.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.843b7179.iframe.bundle.js.map",
+    "4.23b4b0d6.iframe.bundle.js": "./4.23b4b0d6.iframe.bundle.js",
+    "4.23b4b0d6.iframe.bundle.js.map": "./4.23b4b0d6.iframe.bundle.js.map",
+    "5.34546818.iframe.bundle.js": "./5.34546818.iframe.bundle.js",
+    "6.4139cd8d.iframe.bundle.js": "./6.4139cd8d.iframe.bundle.js",
+    "6.4139cd8d.iframe.bundle.js.map": "./6.4139cd8d.iframe.bundle.js.map",
     "7.f0618123.iframe.bundle.js": "./7.f0618123.iframe.bundle.js",
-    "4.4a6b540f.iframe.bundle.js.LICENSE.txt": "./4.4a6b540f.iframe.bundle.js.LICENSE.txt",
-    "6.fc672420.iframe.bundle.js.LICENSE.txt": "./6.fc672420.iframe.bundle.js.LICENSE.txt",
+    "4.23b4b0d6.iframe.bundle.js.LICENSE.txt": "./4.23b4b0d6.iframe.bundle.js.LICENSE.txt",
+    "6.4139cd8d.iframe.bundle.js.LICENSE.txt": "./6.4139cd8d.iframe.bundle.js.LICENSE.txt",
     "iframe.html": "./iframe.html",
     "static/media/app-market-banner.0fd7d824.png": "./static/media/app-market-banner.0fd7d824.png",
     "static/media/prifina.fa120388.svg": "./static/media/prifina.fa120388.svg",
     "static/media/third-party-app.svg": "./static/media/third-party-app.bdaa0095.svg",
-    "vendors~main.c0f75c00.iframe.bundle.js.LICENSE.txt": "./vendors~main.c0f75c00.iframe.bundle.js.LICENSE.txt"
+    "vendors~main.843b7179.iframe.bundle.js.LICENSE.txt": "./vendors~main.843b7179.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.8694c018.iframe.bundle.js",
-    "vendors~main.c0f75c00.iframe.bundle.js",
-    "main.6d20b816.iframe.bundle.js"
+    "runtime~main.c5e96aae.iframe.bundle.js",
+    "vendors~main.843b7179.iframe.bundle.js",
+    "main.e8d9a964.iframe.bundle.js"
   ]
 }
