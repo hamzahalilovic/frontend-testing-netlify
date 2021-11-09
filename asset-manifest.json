@@ -1,18 +1,18 @@
 {
   "files": {
-    "0.3241fd67.iframe.bundle.js": "./0.3241fd67.iframe.bundle.js",
-    "main.js": "./main.4297ebca.iframe.bundle.js",
-    "runtime~main.js": "./runtime~main.7541eb8f.iframe.bundle.js",
-    "vendors~main.js": "./vendors~main.bd782464.iframe.bundle.js",
-    "vendors~main.js.map": "./vendors~main.bd782464.iframe.bundle.js.map",
-    "4.a0b01829.iframe.bundle.js": "./4.a0b01829.iframe.bundle.js",
-    "4.a0b01829.iframe.bundle.js.map": "./4.a0b01829.iframe.bundle.js.map",
-    "5.0f443ea6.iframe.bundle.js": "./5.0f443ea6.iframe.bundle.js",
-    "6.00363bec.iframe.bundle.js": "./6.00363bec.iframe.bundle.js",
-    "6.00363bec.iframe.bundle.js.map": "./6.00363bec.iframe.bundle.js.map",
-    "7.aa81eda8.iframe.bundle.js": "./7.aa81eda8.iframe.bundle.js",
-    "4.a0b01829.iframe.bundle.js.LICENSE.txt": "./4.a0b01829.iframe.bundle.js.LICENSE.txt",
-    "6.00363bec.iframe.bundle.js.LICENSE.txt": "./6.00363bec.iframe.bundle.js.LICENSE.txt",
+    "0.3bd25427.iframe.bundle.js": "./0.3bd25427.iframe.bundle.js",
+    "main.js": "./main.a3da27ae.iframe.bundle.js",
+    "runtime~main.js": "./runtime~main.0a05a155.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.dfaa067b.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.dfaa067b.iframe.bundle.js.map",
+    "4.19cdaa06.iframe.bundle.js": "./4.19cdaa06.iframe.bundle.js",
+    "4.19cdaa06.iframe.bundle.js.map": "./4.19cdaa06.iframe.bundle.js.map",
+    "5.92cd9806.iframe.bundle.js": "./5.92cd9806.iframe.bundle.js",
+    "6.f6af37ca.iframe.bundle.js": "./6.f6af37ca.iframe.bundle.js",
+    "6.f6af37ca.iframe.bundle.js.map": "./6.f6af37ca.iframe.bundle.js.map",
+    "7.f4215a16.iframe.bundle.js": "./7.f4215a16.iframe.bundle.js",
+    "4.19cdaa06.iframe.bundle.js.LICENSE.txt": "./4.19cdaa06.iframe.bundle.js.LICENSE.txt",
+    "6.f6af37ca.iframe.bundle.js.LICENSE.txt": "./6.f6af37ca.iframe.bundle.js.LICENSE.txt",
     "iframe.html": "./iframe.html",
     "static/media/api-data.c9405c7f.png": "./static/media/api-data.c9405c7f.png",
     "static/media/app-market-banner.0fd7d824.png": "./static/media/app-market-banner.0fd7d824.png",
@@ -43,11 +43,11 @@
     "static/media/weatherly-ss-2.6672e3f9.png": "./static/media/weatherly-ss-2.6672e3f9.png",
     "static/media/weatherly-ss-3.00ac1d0e.png": "./static/media/weatherly-ss-3.00ac1d0e.png",
     "static/media/widget.0413eaa8.png": "./static/media/widget.0413eaa8.png",
-    "vendors~main.bd782464.iframe.bundle.js.LICENSE.txt": "./vendors~main.bd782464.iframe.bundle.js.LICENSE.txt"
+    "vendors~main.dfaa067b.iframe.bundle.js.LICENSE.txt": "./vendors~main.dfaa067b.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.7541eb8f.iframe.bundle.js",
-    "vendors~main.bd782464.iframe.bundle.js",
-    "main.4297ebca.iframe.bundle.js"
+    "runtime~main.0a05a155.iframe.bundle.js",
+    "vendors~main.dfaa067b.iframe.bundle.js",
+    "main.a3da27ae.iframe.bundle.js"
   ]
 }
