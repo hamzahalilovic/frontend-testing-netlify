@@ -1,7 +1,7 @@
 {
   "files": {
     "0.3bd25427.iframe.bundle.js": "./0.3bd25427.iframe.bundle.js",
-    "main.js": "./main.a3da27ae.iframe.bundle.js",
+    "main.js": "./main.02139229.iframe.bundle.js",
     "runtime~main.js": "./runtime~main.0a05a155.iframe.bundle.js",
     "vendors~main.js": "./vendors~main.dfaa067b.iframe.bundle.js",
     "vendors~main.js.map": "./vendors~main.dfaa067b.iframe.bundle.js.map",
@@ -16,13 +16,13 @@
     "iframe.html": "./iframe.html",
     "static/media/api-data.c9405c7f.png": "./static/media/api-data.c9405c7f.png",
     "static/media/app-market-banner.0fd7d824.png": "./static/media/app-market-banner.0fd7d824.png",
+    "static/media/app-studio.958a48f0.svg": "./static/media/app-studio.958a48f0.svg",
     "static/media/avatarDefault.1d9bf128.png": "./static/media/avatarDefault.1d9bf128.png",
     "static/media/clock-banner.e13db7f9.png": "./static/media/clock-banner.e13db7f9.png",
     "static/media/clock-ss-1.62139747.png": "./static/media/clock-ss-1.62139747.png",
     "static/media/clock-ss-2.82b96f5b.png": "./static/media/clock-ss-2.82b96f5b.png",
     "static/media/clock-ss-3.3361a5c7.png": "./static/media/clock-ss-3.3361a5c7.png",
     "static/media/dashboard-banner.bd5360e7.png": "./static/media/dashboard-banner.bd5360e7.png",
-    "static/media/dev-console.252a628a.svg": "./static/media/dev-console.252a628a.svg",
     "static/media/dryrun-banner.e6b69f01.png": "./static/media/dryrun-banner.e6b69f01.png",
     "static/media/dryrun-ss-1.1934fe28.png": "./static/media/dryrun-ss-1.1934fe28.png",
     "static/media/dryrun-ss-2.a99681a1.png": "./static/media/dryrun-ss-2.a99681a1.png",
@@ -48,6 +48,6 @@
   "entrypoints": [
     "runtime~main.0a05a155.iframe.bundle.js",
     "vendors~main.dfaa067b.iframe.bundle.js",
-    "main.a3da27ae.iframe.bundle.js"
+    "main.02139229.iframe.bundle.js"
   ]
 }
